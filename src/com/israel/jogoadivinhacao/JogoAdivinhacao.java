@@ -1,9 +1,6 @@
 package com.israel.jogoadivinhacao;
 
-/**
- * Created by Israel Sales on 14/06/2017.
- */
-public class JogoAdivinhacao {
+ class JogoAdivinhacao {
     Jogador jogador1;
     Jogador jogador2;
     Jogador jogador3;
