@@ -25,7 +25,7 @@ public class JogoAdivinhacao {
         System.out.println("Estou pensando em um número entre 0 a 9...");
 
         while (true){
-            System.out.println("O número a adivinhar é: " +numeroAlvo);
+            System.out.println("O número a adivinhar é : " +numeroAlvo);
             jogador1.advinhar();
             jogador2.advinhar();
             jogador3.advinhar();
