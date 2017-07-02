@@ -1,4 +1,4 @@
-package com.israel.jogoadivinhacao;
+package com.useacabecajava.jogoadinvinhacao;
 
 class Jogador {
     int numero = 0;

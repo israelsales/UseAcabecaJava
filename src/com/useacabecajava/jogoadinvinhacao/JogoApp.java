@@ -1,4 +1,4 @@
-package com.israel.jogoadivinhacao;
+package com.useacabecajava.jogoadinvinhacao;
 
 public class JogoApp {
     public static void main(String[] args) {
